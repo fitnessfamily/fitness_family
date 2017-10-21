@@ -1,0 +1,18 @@
+/*
+Template Name: fitness_family
+Template: twentyseventeen
+*/
+@import url("../twentyseventeen/style.css");
+
+.grand_carre_accueil{
+	width:800px !important;
+	background-color: rgba(0, 0, 0, 0.3) !important;
+	margin 0 auto;
+}
+
+.carre_accueil {
+	width:100px;
+	height:100px;
+	background-color: green;
+	margin-left:15px;
+}

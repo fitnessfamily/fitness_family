@@ -1,0 +1,31 @@
+#login h1 a {
+	width: 150px;
+	height: 80px;
+	background-image:url("http://localhost/cms/wordpress2/wordpress/wp-content/themes/twentyfifteen/images/logo_fitness_family.jpg") !important;
+	background-size: 100%;
+	}
+	
+
+
+#login {
+	width:1300px;
+	margin:0 auto;
+}
+
+#loginform {
+	width:1200px;
+	margin:0 auto;
+background-color: rgba(0, 0, 0, 0.3); /* L'opacite se regle ici */
+}
+
+body {
+	background-color: black;
+	background-image:url("http://localhost/cms/wordpress2/wordpress/wp-content/themes/twentyfifteen/images/bg_body_login.jpg");
+	background-size: 100%;
+}
+
+.wp-submit { opacity: 1; }
+
+a{
+	color: green;
+}
